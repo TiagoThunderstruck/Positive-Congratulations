@@ -1,5 +1,5 @@
 <h1>Positive Congratulations </h1>
-<p>Este foi o primeiro HTML projeto que aprendi no <a href="http://www.devclub.com.br" target="_blank">DevClub</a>. </p>
+<p>Este foi o primeiro projeto HTML que aprendi no <a href="http://www.devclub.com.br" target="_blank">DevClub</a>. </p>
 <h2>Tecnologias utilizadas: </h2>
 <ul>
   <li>HTML; </li>
